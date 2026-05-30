@@ -1,5 +1,5 @@
 For more information in chinese ，please visit the website："https://www.scholat.com/zenghui2026"
-
+For more paper information， see [ORCID](https://orcid.org/0009-0007-2578-4090)
 Total number of patents is 32，including the following 5 representative patents：(专利)
 
     Zeng Hui, Lin Shunjiao, Li Rui, Li Jinhui. Preparation of lubricating grease for industrial robot harmonic reducer with added graphene. CN109097158A[P]. 2018-12-28.
