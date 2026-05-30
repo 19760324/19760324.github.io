@@ -24,7 +24,7 @@ SUPERVISION OF STUDENT（学生指导）：
 3 PhD students, 3 master students.
 esearch of detergent（mainly in enzymatic，emulsion，interfacial active substance），surface science，colloidal particles
 RESEARCH OUTPUT（研究产出）:
-1. 2016-present: Commercial laundry Gel Beads：as co-founder&chief scientist，Establish a hidden-champion enterprise of Foshan city-- Guangdong Youkai Technology Co., Ltd（China）,developed multiple series of laundry pods and established ODM production base（30000 t/a）in China, product cover more than 20 countries and regions.
+1. 2016-present: Commercial laundry Gel Beads：as co-founder&chief scientist of the hidden-champion enterprise of Foshan city-- Guangdong Youkai Technology Co., Ltd（China）,developed multiple series of laundry pods and established ODM production base（30000 t/a）in China, product cover more than 20 countries and regions.
 2. 2016 - 2019: Developed industry technologies to improve the hydrophobicity and antibacterial properties of sensor surfaces, including water-saving agents，cooperated with Guangzhou Lvzhong Water Engineering Management Co., Ltd，those techniques have been applied to Guangzhou government buildings and university facilities in China.
 3. 2008 - 2014: Basic research with functional interface lubricating materials, cooperated with Shenzhen Hecheng Lubrication Materials Co., Ltd，applied for the production of lithium lubricants.
 4. 2002 - 2007: PhD research project at Wuhan University（China）,formation of metastable nano-systems through the diffusion of interfacial active substances under microenvironmental conditions，mainly used for rapid preparation of high stability and high dispersibility agricultural spray agents under low energy consumption conditions.
