@@ -1,0 +1,11 @@
+remote_theme: academicpages/academicpages.github.io
+
+title: "Personal Homepage"
+name: "Zeng Hui（曾晖）"
+description: ""
+url: "https://19760324.github.io"
+baseurl: ""
+
+author:
+  name: "Zeng Hui（曾晖）"
+  email: "zenghui5@mail.sysu.edu.cn"
