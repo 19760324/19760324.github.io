@@ -1,1 +1,8 @@
-navigation
+# main links
+main:
+  - title: About me
+    url: /about/
+  - title: Publication
+    url: /publications/
+  - title: CV
+    url: /cv/
