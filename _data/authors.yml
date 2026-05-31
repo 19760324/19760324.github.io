@@ -1,0 +1,43 @@
+Zeng Hui:
+  name: "Zeng Hui（曾晖）"
+  bio: >
+    Assistant Professor / Postdoctoral Researcher / PhD Student<br />
+    School of XXX, Sun Yat-sen University<br />
+    Research interests: Computer Vision, Machine Learning, Multimodal Learning
+  avatar: "/images/profile.png"   # 头像图片，放在 images/ 目录下
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:zenghui5@mail.sysu.edu.cn"
+
+    - label: "Affiliation"
+      icon: "fas fa-university"
+      url: "#"
+
+    - label: "Location"
+      icon: "fas fa-map-marker-alt"
+      url: "#"
+
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=XXXX"
+
+    - label: "ResearchGate"
+      icon: "ai ai-researchgate"
+      url: "https://www.researchgate.net/profile/XXX"
+
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0000-0000-0000"
+
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/19760324"
+
+    - label: "CV"
+      icon: "fas fa-file-pdf"
+      url: "/cv/"
+
+    - label: "Homepage"
+      icon: "fas fa-link"
+      url: "https://19760324.github.io"
