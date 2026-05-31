@@ -7,7 +7,10 @@ url: "https://19760324.github.io"
 baseurl: ""
 
 author:
-  name: "Zeng Hui（曾晖）"
-  email: "zenghui5@mail.sysu.edu.cn"
+  name: "Your Name"
+  email: "xxx@xxx.com"
+  location: "Guangzhou, China"
+  github: "19760324.github.io"
+  
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
