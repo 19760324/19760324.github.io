@@ -12,6 +12,13 @@ author: Zeng Hui
   location: "Guangzhou, China"
   github: "19760324.github.io"
   affiliation: "Sun Yat-sen University"
-  
+
+social:
+  - icon: "fas fa-envelope"
+    label: "Email"
+    url: "mailto:zenghui5@mail.sysu.edu.cn"
+  - icon: "fab fa-github"
+    label: "GitHub"
+    url: "https://github.com/19760324"
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css
